@@ -26,3 +26,13 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;        
       </div>
 </div>
+
+---
+
+### 📊 My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Oskrkun&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
