@@ -15,7 +15,7 @@
 
 
 <div align="left">
-    <h3>&#x1F4BB; Languages:</h3>
+    <h3>💻 Languages:</h3>
         <div>
             <img src="resources/csharp.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
             <img src="resources/css3.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -24,16 +24,16 @@
             <img src="resources/javascript.svg" title="javascript"  alt="javascript" width="40" height="40"/>&nbsp;
             <img src="resources/mysql.svg" title="mysql" **alt="mysql" width="40" height="40"/>&nbsp;
             <img src="resources/php.svg" title="php" **alt="php" width="40" height="40"/>&nbsp;
+            <img src="resources/python.svg" title="python" **alt="python" width="40" height="40"/>&nbsp;            
         </div>
     <h3>🔨 Tools:</h3>
         <div>
-        <img src="resources/" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="resources/"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="resources/" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="resources/" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="resources/" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="resources/" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-        <img src="resources/" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+        <img src="resources/github.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+        <img src="resources/unity.svg"  title="unity" alt="unity" width="40" height="40"/>&nbsp;
+        <img src="resources/visualstudio.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
+        <img src="resources/photoshop.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+        <img src="resources/aftereffects.svg" title="aftereffects"  alt="aftereffects" width="40" height="40"/>&nbsp;
+        <img src="resources/androidstudio.svg" title="androidstudio" **alt="androidstudio" width="40" height="40"/>&nbsp;
       </div>
 </div>
 
