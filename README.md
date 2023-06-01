@@ -7,7 +7,7 @@
 
 ## 👨🏻‍💻 About Me :
 
-Hi! I'm an Entry-level programmer from Uruguay, passionate about web development. I'm focused on learning and improving my skills in different areas of web programming, with the goal of becoming a Fullstack web developer. I love working in teams and I'm always willing to learn and tackle new challenges. Thank you for reading my presentation!
+Hi! I'm an Entry-level programmer from Uruguay, passionate about web development. I'm focused on learning and improving my skills in different areas of web programming, with the goal of becoming a Fullstack web developer. I love working in teams and I'm always willing to learn and tackle new challenges. Thank you for reading my presentation!👍🏼
 
 - 📝 "Studying to become a Full Stack Web Developer"
 
