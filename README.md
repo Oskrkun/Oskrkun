@@ -34,7 +34,8 @@
         <img src="resources/photoshop.svg" title="photoshop" alt="photoshop" width="50" height="50"/>&nbsp;&nbsp;
         <img src="resources/aftereffects.svg" title="aftereffects"  alt="aftereffects" width="50" height="50"/>&nbsp;&nbsp;
         <img src="resources/androidstudio.svg" title="androidstudio" **alt="androidstudio" width="50" height="50"/>&nbsp;&nbsp;
-      </div>
+        <img src="resources/vscode.svg" title="vscode" **alt="vscode" width="50" height="50"/>&nbsp;&nbsp;
+    </div>
 </div>
 
 ---
