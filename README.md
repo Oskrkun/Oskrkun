@@ -15,7 +15,7 @@
 
 
 <div align="left">
-    <h3>💻 Languages:</h3>
+    <h3>💻 Languages:</h3><br>
         <div>
             <img src="resources/csharp.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;&nbsp;
             <img src="resources/css3.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;
@@ -26,7 +26,7 @@
             <img src="resources/php.svg" title="php" **alt="php" width="50" height="50"/>&nbsp;&nbsp;
             <img src="resources/python.svg" title="python" **alt="python" width="50" height="50"/>&nbsp;        &nbsp;    
         </div><br><br>
-    <h3>🔨 Tools:</h3>
+    <h3>🔨 Tools:</h3><br>
         <div>
         <img src="resources/github.svg" title="github" alt="github" width="50" height="50"/>&nbsp;&nbsp;
         <img src="resources/unity.svg"  title="unity" alt="unity" width="50" height="50"/>&nbsp;&nbsp;
