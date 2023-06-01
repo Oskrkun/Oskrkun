@@ -1,4 +1,5 @@
-<div id="header" align="center">    
+<div id="header" align="center">
+    <img src="resources/developer.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Oscar</h1>
     <h3 align="center">A passionate fullstack web developer student from Uruguay.</h3>
 </div>
@@ -35,7 +36,7 @@ Hi! 🙋🏻‍♂️ I'm an Entry-level programmer from Uruguay, passionate abo
         <img src="resources/photoshop.svg" title="photoshop" alt="photoshop" width="50" height="50"/>&nbsp;&nbsp;
         <img src="resources/aftereffects.svg" title="aftereffects"  alt="aftereffects" width="50" height="50"/>&nbsp;&nbsp;
         <img src="resources/androidstudio.svg" title="androidstudio" **alt="androidstudio" width="50" height="50"/>&nbsp;&nbsp;
-        <img src="resources/vscode.svg" title="vscode" **alt="vscode" width="50" height="50"/>&nbsp;&nbsp;<img src="resources/developer.gif" width="200" /> 
+        <img src="resources/vscode.svg" title="vscode" **alt="vscode" width="50" height="50"/>&nbsp;&nbsp;
     </div>
 </div>
 
