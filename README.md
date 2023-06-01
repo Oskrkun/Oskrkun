@@ -27,7 +27,7 @@ Hi! I'm an Entry-level programmer from Uruguay, passionate about web development
             <img src="resources/mysql.svg" title="mysql" **alt="mysql" width="50" height="50"/>&nbsp;&nbsp;
             <img src="resources/php.svg" title="php" **alt="php" width="50" height="50"/>&nbsp;&nbsp;
             <img src="resources/python.svg" title="python" **alt="python" width="50" height="50"/>&nbsp;        &nbsp;    
-        </div><br><br>
+        </div><br>
     <h3>🔨 Tools:</h3><br>
         <div>
         <img src="resources/github.svg" title="github" alt="github" width="50" height="50"/>&nbsp;&nbsp;
