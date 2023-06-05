@@ -38,7 +38,7 @@ Hi! 🙋🏻‍♂️ I'm an Entry-level programmer from Uruguay, passionate abo
         <img src="resources/androidstudio.svg" title="androidstudio" **alt="androidstudio" width="50" height="50"/>&nbsp;&nbsp;
         <img src="resources/vscode.svg" title="vscode" **alt="vscode" width="50" height="50"/>&nbsp;&nbsp;
     </div>
-</div>
+</div><br><br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oskrkun&layout=compact&card_width=445)](https://github.com/Oskrkun)
