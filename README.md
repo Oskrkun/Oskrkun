@@ -1,5 +1,8 @@
 <div id="header" align="center">
     <img src="resources/developer.gif" width="200" />
+    <div style="display: inline-block;">
+       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oskrkun&layout=compact&card_width=445)](https://github.com/Oskrkun)  
+    </div> 
     <h1 align="center">Hi 👋, I'm Oscar</h1>
     <h3 align="center">A passionate fullstack web developer student from Uruguay.</h3>
 </div>
