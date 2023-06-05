@@ -44,8 +44,4 @@ Hi! 🙋🏻‍♂️ I'm an Entry-level programmer from Uruguay, passionate abo
 
 ### 📊 My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Oskrkun&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oskrkun&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oskrkun&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oskrkun&layout=compact&card_width=445)](https://github.com/Oskrkun)
