@@ -39,5 +39,6 @@ Hi! 🙋🏻‍♂️ I'm an Entry-level programmer from Uruguay, passionate abo
         <img src="resources/vscode.svg" title="vscode" **alt="vscode" width="50" height="50"/>&nbsp;&nbsp;
     </div>
 </div>
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oskrkun&layout=compact&card_width=445)](https://github.com/Oskrkun)
