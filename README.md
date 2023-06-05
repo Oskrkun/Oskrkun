@@ -40,5 +40,4 @@ Hi! 🙋🏻‍♂️ I'm an Entry-level programmer from Uruguay, passionate abo
     </div>
 </div>
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oskrkun&layout=compact)](https://github.com/Oskrkun)
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oskrkun&layout=compact&card_width=445)](https://github.com/Oskrkun)
